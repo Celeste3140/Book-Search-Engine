@@ -3,6 +3,8 @@
 
 - [Description](#Description) 
 
+- [Screenshot](#Screenshot)
+
 - [UserStory](#User-Story)
 
 - [Usage](#Usage) 
@@ -11,6 +13,8 @@
 
 ## Description 
 This application is built using the MERN stack as in React for the front end, MongoDB for the database and Node.js/Express.js and API for the back end. This application uses the GoogleQL API with a RESTful API along with the idea that most application such as this is driven by data and user demands. 
+## Screenshot
+
 ## User Story 
 AS AN avid reader
 I WANT to search for new books to read
